@@ -1,0 +1,33 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.obj/
+obj/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# VSCode
+.vscode/
+
+# Other
+*.apk
+*.unitypackage
+

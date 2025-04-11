@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ad99b05126cc10e4db4498d93a4f1ec9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2616682909807247051
+    second: KomachiOnozuka_0
+  - first:
+      213: -7164546373302834348
+    second: KomachiOnozuka_1
+  - first:
+      213: 3036339852683188775
+    second: KomachiOnozuka_2
+  - first:
+      213: -2712366117375434856
+    second: KomachiOnozuka_3
+  - first:
+      213: -7396515256004999612
+    second: KomachiOnozuka_4
+  - first:
+      213: 8163412544280291102
+    second: KomachiOnozuka_5
+  - first:
+      213: 222228479318221403
+    second: KomachiOnozuka_6
+  - first:
+      213: -861567530659295009
+    second: KomachiOnozuka_7
+  - first:
+      213: -5766064406411235050
+    second: KomachiOnozuka_8
+  - first:
+      213: -2286172872735034811
+    second: KomachiOnozuka_9
+  - first:
+      213: 3401702044667750650
+    second: KomachiOnozuka_10
+  - first:
+      213: 5230224659012877266
+    second: KomachiOnozuka_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KomachiOnozuka_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5318a1fd1ccafabd0800000000000000
+      internalID: -2616682909807247051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ba87a680b629c90800000000000000
+      internalID: -7164546373302834348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1b80420f332a20800000000000000
+      internalID: 3036339852683188775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f1801136dbb5ad0800000000000000
+      internalID: -2712366117375434856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 288
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4468016209c4a5990800000000000000
+      internalID: -7396515256004999612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 288
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e176bc815744a4170800000000000000
+      internalID: 8163412544280291102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ecb0ef93851300800000000000000
+      internalID: 222228479318221403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0da0945e81b04f0800000000000000
+      internalID: -861567530659295009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b5d7e8f2daffa0800000000000000
+      internalID: -5766064406411235050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427e7982e1e540e0800000000000000
+      internalID: -2286172872735034811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 192
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af824249cf5453f20800000000000000
+      internalID: 3401702044667750650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KomachiOnozuka_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db73ffcd9d759840800000000000000
+      internalID: 5230224659012877266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4639e28a7fe846643a1951ab74f26b6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KomachiOnozuka_0: -2616682909807247051
+      KomachiOnozuka_1: -7164546373302834348
+      KomachiOnozuka_10: 3401702044667750650
+      KomachiOnozuka_11: 5230224659012877266
+      KomachiOnozuka_2: 3036339852683188775
+      KomachiOnozuka_3: -2712366117375434856
+      KomachiOnozuka_4: -7396515256004999612
+      KomachiOnozuka_5: 8163412544280291102
+      KomachiOnozuka_6: 222228479318221403
+      KomachiOnozuka_7: -861567530659295009
+      KomachiOnozuka_8: -5766064406411235050
+      KomachiOnozuka_9: -2286172872735034811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
